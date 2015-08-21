@@ -6,7 +6,8 @@ Created:
 - A folder called views with html files.
 - A folder called images for images.
 - A folder called stylesheets for css.
--localhost:7077/cars
+
+- localhost:7077/cars
 	- displays pictures of different cars.
 - localhost:7077/cats 
 	- displays pictures of cats.
